@@ -1,0 +1,1 @@
+# cowsay-random-zsh
